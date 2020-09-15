@@ -12,7 +12,7 @@ cd fasta_stats
 make
 ```
 
-Then, open `~/.bash_profile` or `~/.bashrc`, or however you add new programs to your path, 
+Then, open either the `~/.bash_profile` file or `~/.bashrc` file, or however you add new programs to your path, 
 then add the program to your path like so. Change the absolute path to match wherever your files are saved.
 
 ```
